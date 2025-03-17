@@ -1,1 +1,1 @@
-# marianeft-Medical_Inventory_Management
+# Medical_Inventory_Management
